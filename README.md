@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raffaele Vasini 
 - 👀 I’m interested in Web and Mobile develop
 - 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Node and Angular projects 
+- 💞️ I’m looking to collaborate on Node.js and Angular projects 
 - 📫 How to reach me https://www.linkedin.com/in/raffaele-vasini-87937470/
 
 <!---
