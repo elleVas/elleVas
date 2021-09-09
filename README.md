@@ -8,9 +8,6 @@
 - #### 📫 How to reach me:
 
 [![linkedin](https://user-images.githubusercontent.com/5528247/129276045-365251b2-9cc4-4bd4-bbaf-d9659e044bad.png)](https://www.linkedin.com/in/raffaele-vasini-87937470/)
-[![instagram](https://user-images.githubusercontent.com/5528247/129276872-5abfbfa7-295b-4beb-99b8-9e506c2001d7.png)](https://www.instagram.com/shootatrip/)
-
-
 
 
 #### Languages and Tools:
