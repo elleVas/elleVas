@@ -1,8 +1,8 @@
 #### Hi, I’m Raffaele Vasini (Lele) 🚀
 
 - 👀 I’m interested in Web, Mobile develop and IT sec.
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on Node.js and Angular projects 
+- 🌱 I’m currently learning Nest.js
+- 💞️ I’m looking to collaborate on Node.js (Nest.js, Express) and Angular projects 
 - ✈️ I love travel.
 
 - #### 📫 How to reach me:
