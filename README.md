@@ -1,8 +1,8 @@
 #### Hi, I’m Raffaele Vasini (Lele) 🚀
 
-- 👀 I’m interested in Web, Mobile develop and IT sec.
+- 👀 I’m interested in Web,Cloud and Mobile develop.
 - 🌱 I’m currently learning Nest.js
-- 💞️ I’m looking to collaborate on Node.js (Nest.js, Express) and Angular projects 
+- 💞️ I’m looking to collaborate on Node.js (Nest.js, Express) and Vue/Angular projects. 
 - ✈️ I love travel.
 
 - #### 📫 How to reach me:
