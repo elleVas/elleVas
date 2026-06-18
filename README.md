@@ -9,7 +9,6 @@
 
 [![linkedin](https://user-images.githubusercontent.com/5528247/129276045-365251b2-9cc4-4bd4-bbaf-d9659e044bad.png)](https://www.linkedin.com/in/raffaele-vasini-87937470/)
 
-
 #### Languages and Tools:
 
 ![typescript](https://user-images.githubusercontent.com/5528247/129274868-98c24eff-1f13-4f14-9858-8f6c305ed337.png) 
@@ -22,6 +21,9 @@
 ![firebase](https://user-images.githubusercontent.com/5528247/129313734-e50fd234-e6ce-4cc5-b578-35ca7db14d65.png)
 ![git](https://user-images.githubusercontent.com/5528247/129274839-45112097-b506-4cb6-b1d0-d0d6e163af92.png) 
 ![visual-studio-code](https://user-images.githubusercontent.com/5528247/129274882-33139dc6-80f2-4589-bc55-5bc5e2b06944.png)
+
+
+<a href="https://app.daily.dev/raffaelevasini"><img src="https://api.daily.dev/devcards/v2/DbwQxT1I5gFx7X9fcOwe3.png?type=wide&r=mqm" width="652" alt="Raffaele Vasini's Dev Card"/></a>
 
 
 
