@@ -1,9 +1,26 @@
-#### Hi, I’m Raffaele Vasini (Lele) 🚀
+#### Hi, I'm Raffaele Vasini (Lele) 🚀
 
-- 👀 I’m interested in Web, Cloud and Mobile develop.
-- 🌱 I’m currently learning AWS Developer certification
-- 💞️ I’m looking to collaborate on Node.js (Nest.js, Express) and Vue/Angular/React projects. 
-- ✈️ I love travel.
+Freelance Full Stack Developer with 10+ years of experience, currently
+collaborating with **f.technology** on enterprise/product engineering teams.
+
+- 🛠️ Main stack: **React** (Router, Hook Form, Styled Components, Tailwind),
+  **NestJS** REST APIs, **PostgreSQL** with TypeORM/Drizzle, **Nx monorepos**
+- 🤝 I work embedded in product teams for startups and SaaS companies,
+  owning features end-to-end — from API design to UI implementation
+- 🌱 Currently exploring AWS cost-optimization tooling (see cloudrift below)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raffaele-vasini-87937470/)
+
+#### Featured project
+
+**[cloudrift](https://github.com/elleVas/cloudrift)** — a CLI that scans AWS
+accounts for wasted resources and estimates monthly cost, built with a DDD
+layered architecture (Ports & Adapters), Nx monorepo, TypeScript and AWS SDK
+v3. Includes a CI/CD budget gate (fails the pipeline when waste exceeds a
+threshold) and full architectural documentation in [`docs/`](https://github.com/elleVas/cloudrift/tree/main/docs).
+
+Working knowledge of AWS (Lambda, DynamoDB, S3, API Gateway) from production
+projects; exploring Infrastructure as Code with AWS CDK and actively looking
+to grow further in cloud-native development.
 
 - #### 📫 How to reach me: [![linkedin](https://user-images.githubusercontent.com/5528247/129276045-365251b2-9cc4-4bd4-bbaf-d9659e044bad.png)](https://www.linkedin.com/in/raffaele-vasini-87937470/)
 
