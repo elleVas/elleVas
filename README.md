@@ -18,9 +18,7 @@ layered architecture (Ports & Adapters), Nx monorepo, TypeScript and AWS SDK
 v3. Includes a CI/CD budget gate (fails the pipeline when waste exceeds a
 threshold) and full architectural documentation in [`docs/`](https://github.com/elleVas/cloudrift/tree/main/docs).
 
-Working knowledge of AWS (Lambda, DynamoDB, S3, API Gateway) from production
-projects; exploring Infrastructure as Code with AWS CDK and actively looking
-to grow further in cloud-native development.
+- ☁️ Working knowledge of AWS, currently growing into IaC with AWS CDK
 
 - #### 📫 How to reach me: [![linkedin](https://user-images.githubusercontent.com/5528247/129276045-365251b2-9cc4-4bd4-bbaf-d9659e044bad.png)](https://www.linkedin.com/in/raffaele-vasini-87937470/)
 
