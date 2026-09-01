@@ -37,3 +37,5 @@ threshold) and full architectural documentation in [`docs/`](https://github.com/
 
 
 <a href="https://app.daily.dev/raffaelevasini"><img src="https://api.daily.dev/devcards/v2/DbwQxT1I5gFx7X9fcOwe3.png?type=wide&r=mqm" width="652" alt="Raffaele Vasini's Dev Card"/></a>
+![Stats](./profile/stats.svg)
+![Languages](./profile/languages.svg)
