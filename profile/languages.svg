@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">elleVas&#39;s languages</title>
-  <desc id="descId">TypeScript: 58.0%, JSON: 24.8%, Markdown: 7.5%, YAML: 3.8%, PHP: 3.6%, Other: 2.2%. calculated analyzing all 313 pull requests</desc>
+  <desc id="descId">TypeScript: 58.0%, JSON: 25.0%, Markdown: 7.6%, YAML: 3.7%, PHP: 3.6%, Other: 2.1%. calculated analyzing all 321 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -71,17 +71,17 @@
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
         <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">24.8%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">25.0%</text>
       </g>
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
         <text class="name" x="16" y="11">Markdown</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">7.5%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">7.6%</text>
       </g>
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
         <text class="name" x="16" y="11">YAML</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">3.8%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">3.7%</text>
       </g>
       <g class="entry" style="animation-delay: 400ms" transform="translate(0.0, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-4)"/>
@@ -91,9 +91,9 @@
       <g class="entry" style="animation-delay: 470ms" transform="translate(211.5, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-5)"/>
         <text class="name" x="16" y="11">Other</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">2.2%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">2.1%</text>
       </g>
     </g>
-    <text class="note" x="0" y="79">calculated analyzing all 313 pull requests</text>
+    <text class="note" x="0" y="79">calculated analyzing all 321 pull requests</text>
   </g>
 </svg>
