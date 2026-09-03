@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">elleVas&#39;s languages</title>
-  <desc id="descId">TypeScript: 58.0%, JSON: 25.0%, Markdown: 7.6%, YAML: 3.7%, PHP: 3.6%, Other: 2.1%. calculated analyzing all 321 pull requests</desc>
+  <desc id="descId">TypeScript: 58.1%, JSON: 24.9%, Markdown: 7.6%, YAML: 3.7%, PHP: 3.6%, Other: 2.1%. calculated analyzing all 322 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -66,12 +66,12 @@
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">TypeScript</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">58.0%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">58.1%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
         <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">25.0%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">24.9%</text>
       </g>
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
@@ -94,6 +94,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">2.1%</text>
       </g>
     </g>
-    <text class="note" x="0" y="79">calculated analyzing all 321 pull requests</text>
+    <text class="note" x="0" y="79">calculated analyzing all 322 pull requests</text>
   </g>
 </svg>
