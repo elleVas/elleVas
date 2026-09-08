@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">elleVas&#39;s languages</title>
-  <desc id="descId">TypeScript: 58.4%, JSON: 24.2%, Markdown: 7.7%, PHP: 3.8%, YAML: 3.6%, CSS: 1.1%, Other: 1.2%. calculated analyzing all 332 pull requests</desc>
+  <desc id="descId">TypeScript: 58.6%, JSON: 24.3%, Markdown: 7.6%, PHP: 3.7%, YAML: 3.5%, CSS: 1.2%, Other: 1.1%. calculated analyzing all 345 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -68,39 +68,39 @@
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">TypeScript</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">58.4%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">58.6%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
         <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">24.2%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">24.3%</text>
       </g>
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
         <text class="name" x="16" y="11">Markdown</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">7.7%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">7.6%</text>
       </g>
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
         <text class="name" x="16" y="11">PHP</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">3.8%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">3.7%</text>
       </g>
       <g class="entry" style="animation-delay: 400ms" transform="translate(0.0, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-4)"/>
         <text class="name" x="16" y="11">YAML</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">3.6%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">3.5%</text>
       </g>
       <g class="entry" style="animation-delay: 470ms" transform="translate(211.5, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-5)"/>
         <text class="name" x="16" y="11">CSS</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">1.1%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">1.2%</text>
       </g>
       <g class="entry" style="animation-delay: 540ms" transform="translate(0.0, 63)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-6)"/>
         <text class="name" x="16" y="11">Other</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">1.2%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">1.1%</text>
       </g>
     </g>
-    <text class="note" x="0" y="100">calculated analyzing all 332 pull requests</text>
+    <text class="note" x="0" y="100">calculated analyzing all 345 pull requests</text>
   </g>
 </svg>
