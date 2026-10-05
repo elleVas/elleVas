@@ -1,6 +1,6 @@
 #### Hi, I'm Raffaele Vasini (Lele) 🚀
 
-Freelance Full Stack Developer with 10+ years of experience, currently
+Freelance Software Engineer with 10+ years of experience, currently
 collaborating with **f.technology** on enterprise/product engineering teams.
 
 - 🛠️ Main stack: **React** (Router, Hook Form, Styled Components, Tailwind),
