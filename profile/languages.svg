@@ -15,7 +15,7 @@
        nobody. Delete this comment if you would rather not be counted; the card is
        identical without it, and I will only be a little sad about it :( -->
   <title id="titleId">elleVas&#39;s languages</title>
-  <desc id="descId">TypeScript: 66.5%, JSON: 12.6%, Markdown: 10.7%, YAML: 4.7%, JavaScript: 4.3%, Other: 1.3%. calculated analyzing all 300 pull requests</desc>
+  <desc id="descId">TypeScript: 65.1%, JSON: 12.9%, Markdown: 11.1%, YAML: 5.4%, JavaScript: 4.3%, Other: 1.3%. calculated analyzing all 301 pull requests</desc>
   <style>
     :root {
       --bg: #ffffff;
@@ -66,22 +66,22 @@
       <g class="entry" style="animation-delay: 120ms" transform="translate(0.0, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-0)"/>
         <text class="name" x="16" y="11">TypeScript</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">66.5%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">65.1%</text>
       </g>
       <g class="entry" style="animation-delay: 190ms" transform="translate(211.5, 0)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-1)"/>
         <text class="name" x="16" y="11">JSON</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">12.6%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">12.9%</text>
       </g>
       <g class="entry" style="animation-delay: 260ms" transform="translate(0.0, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-2)"/>
         <text class="name" x="16" y="11">Markdown</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">10.7%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">11.1%</text>
       </g>
       <g class="entry" style="animation-delay: 330ms" transform="translate(211.5, 21)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-3)"/>
         <text class="name" x="16" y="11">YAML</text>
-        <text class="share" x="199.5" y="11" text-anchor="end">4.7%</text>
+        <text class="share" x="199.5" y="11" text-anchor="end">5.4%</text>
       </g>
       <g class="entry" style="animation-delay: 400ms" transform="translate(0.0, 42)">
         <circle cx="4" cy="7.5" r="4" fill="var(--lang-4)"/>
@@ -94,6 +94,6 @@
         <text class="share" x="199.5" y="11" text-anchor="end">1.3%</text>
       </g>
     </g>
-    <text class="note" x="0" y="79">calculated analyzing all 300 pull requests</text>
+    <text class="note" x="0" y="79">calculated analyzing all 301 pull requests</text>
   </g>
 </svg>
